@@ -159,6 +159,7 @@ header {
 
 .category > p {
   color: white;
+  cursor: pointer;
 }
 
 .category:hover .category_overlay {
